@@ -1,6 +1,5 @@
 
 ### Comprehensive course outline from beginner to expert level in Data Science, Machine Learning (ML), and Artificial Intelligence (AI).
-Involves a structured approach to cover foundational concepts, intermediate topics, advanced techniques, and practical applications. Here’s a detailed curriculum along with a suggested schedule for effective learning:
 
 ### Beginner Level (Credits: 12)
 #### Course 1: Introduction to Data Science (Credits: 3)
